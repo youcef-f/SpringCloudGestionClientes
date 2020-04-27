@@ -49,8 +49,9 @@ Lorsque un client web ou mobile utilise une technologie hardware trop veille ( f
 [billing-service](doc/billing-service.md)  
 [springgateway-service](doc/springgateway-service.md)  
 [eureka-service](doc/eureka-service.md)  
-
-
+[rapidAPi](doc/rapidApi.md)  
+[turbin](doc/turbin.md)  
+[hystrixDashboard](doc/hystrixdashboard.md)  
 
  ## Links
 
